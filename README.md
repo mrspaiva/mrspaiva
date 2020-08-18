@@ -1,4 +1,4 @@
-![mrspaiva](https://github-readme-stats.vercel.app/api?username=mrspaiva&theme=dark&show_icons=true)
+![mrspaiva](https://github-readme-stats.vercel.app/api?username=mrspaiva&theme=gruvbox&show_icons=true)
 
 ### Hi there 👋
 
