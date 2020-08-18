@@ -1,7 +1,7 @@
-![mrspaiva](https://github-readme-stats.vercel.app/api?username=mrspaiva&theme=gruvbox&show_icons=true)
+### Opa, como vai? 👋
 
-### Hi there 👋
+Olá, sou Natalia Paiva, e estou começando a trilhar esse caminho apaixonante que é o desenvolvimento front-end. Meus conhecimentos se baseiam em HTML, CSS e JavaScript, mas me mantenho aberta e curiosa com tudo o que envolve tecnologia.
 
-<!--
-**mrspaiva/mrspaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No meu tempo livre gosto muito de ler(📚), assistir filmes(📺) e aprender algo novo(:rocket:).
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-paiva)](https://www.linkedin.com/in/natalia-paiva)
