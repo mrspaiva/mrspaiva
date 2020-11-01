@@ -1,6 +1,6 @@
 ### Opa, como vai? 👋
 
-Olá, sou Natalia Paiva, e estou começando a trilhar esse caminho apaixonante que é o desenvolvimento front-end. Meus conhecimentos se baseiam em HTML, CSS e JavaScript, mas me mantenho aberta e curiosa com tudo o que envolve tecnologia.
+Olá, sou Natalia Paiva, e estou começando a trilhar esse caminho apaixonante que é o desenvolvimento front-end. Meus conhecimentos se baseiam em HTML, CSS, JavaScript, ReactJs e um pequena parte em NodeJs. Mas me mantenho aberta e curiosa com tudo o que envolve tecnologia.
 
 No meu tempo livre gosto muito de ler(📚), assistir filmes(📺) e aprender sobre o universo de um bom café(☕).
 
