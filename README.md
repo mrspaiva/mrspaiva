@@ -1,8 +1,18 @@
-### Opa, como vai? 👋
+## Opa, como vai? 👋
 
-Olá, sou Natalia Paiva e sou desenvolvedora front-end. Meus conhecimentos se baseiam em JavaScript, ReactJs, React Native, NextJs, Typescript e um pequena parte em NodeJs. Mas me mantenho aberta e curiosa com tudo o que envolve tecnologia.
+Olá, sou Natalia Paiva e sou desenvolvedora front-end web e mobile. 
 
-No meu tempo livre gosto muito de ler(📚), assistir filmes(📺) e aprender sobre o universo de um bom café(☕).
+### Linguagens e Ferramentas:
+* React Native
+* ReactJs
+* Typescript 
+* NextJs
+* GraphQl
+* Styled Components
+* Tailwind
+* Jest / React Testing Library
+
+No meu tempo livre gosto muito de ler 📚, assistir filmes 📺 e aprender sobre o universo de um bom café ☕.
 
 Também pode me encontrar em:
 
