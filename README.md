@@ -16,6 +16,6 @@ Main Tools:
 
 Beyond coding, I enjoy diving into new ideas, always eager to explore and grow in different areas of knowledge. I'm driven by curiosity and the desire to craft great user experiences.
 
-You can also find me in:
+You can also find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-paiva)](https://www.linkedin.com/in/natalia-paiva)
