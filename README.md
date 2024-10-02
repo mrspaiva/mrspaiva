@@ -1,19 +1,21 @@
-## Opa, como vai? 👋
+## Hey, what's up? 👋
 
-Olá, sou Natalia Paiva e sou desenvolvedora front-end web e mobile. 
+I’m a frontend developer with 3 years of experience building web and mobile applications. My passion lies in creating efficient, scalable, and user-friendly interfaces using modern technologies.
 
-### Linguagens e Ferramentas:
-* React Native
-* ReactJs
-* Typescript 
-* NextJs
-* GraphQl
-* Styled Components
-* Tailwind
-* Jest / React Testing Library
+I thrive on learning and staying up-to-date with the latest trends in development, constantly seeking ways to improve both my skills and the projects I work on.
 
-No meu tempo livre gosto muito de ler 📚, assistir filmes 📺 e aprender sobre o universo de um bom café ☕.
+Main Tools:
+ * React Native
+ * React.js
+ * TypeScript
+ * Next.js
+ * GraphQL
+ * Styled Components
+ * Tailwind
+ * Jest / React Testing Library
 
-Também pode me encontrar em:
+Beyond coding, I enjoy diving into new ideas, always eager to explore and grow in different areas of knowledge. I'm driven by curiosity and the desire to craft great user experiences.
+
+You can also find me in:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-paiva)](https://www.linkedin.com/in/natalia-paiva)
