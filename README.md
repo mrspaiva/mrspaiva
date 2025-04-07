@@ -1,6 +1,6 @@
 ## Hey, what's up? 👋
 
-I’m a frontend developer with 3 years of experience building web and mobile applications. My passion lies in creating efficient, scalable, and user-friendly interfaces using modern technologies.
+I’m a frontend developer with 4 years of experience building web and mobile applications. My passion lies in creating efficient, scalable, and user-friendly interfaces using modern technologies.
 
 I thrive on learning and staying up-to-date with the latest trends in development, constantly seeking ways to improve both my skills and the projects I work on.
 
